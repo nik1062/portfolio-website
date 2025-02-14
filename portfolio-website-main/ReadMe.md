@@ -13,6 +13,10 @@
 <br />
 
 ### Desktop Preview
+## about
+Hi! I'm Nikunj Kumar, a passionate web developer currently in my 2nd year of engineering. I love turning ideas into functional, user-friendly websites and applications. My journey in web development started with curiosity, and now I specialize in front-end and back-end technologies, creating dynamic and responsive web solutions.
+## my goal
+I strive to build modern, scalable, and user-centric web applications while constantly learning new technologies. My aim is to bridge design and functionality to create impactful digital experiences.
 
 
 

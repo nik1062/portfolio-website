@@ -1,7 +1,10 @@
 // htmlcss progress circular bar 
 let htmlProgress = document.querySelector(".html-css"),
   htmlValue = document.querySelector(".html-progress");
-
+AOS.init({
+  duration: 1000,
+  offset: 50,
+});
 let htmlStartValue = 0,
   htmlEndValue = 90,
   htmlspeed = 30;

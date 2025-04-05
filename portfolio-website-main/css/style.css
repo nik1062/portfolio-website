@@ -1,3 +1,6 @@
+* {
+  outline: 1px solid red; /* Helps spot which div is too wide */
+}
 /* Tablet */
 @media (max-width: 768px) {
   .home h2 {
